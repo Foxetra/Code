@@ -1,0 +1,10 @@
+import keyword
+print(keyword.kwlist)
+name = input("Enter your name: ")
+firstitem = input("Enter the first item you want to buy: ")
+seconditem = input("Enter the second item you want to buy: ")
+thirditem = input("Enter the third item you want to buy: ")
+print("Name: ", name)
+print("The first item you want to buy is: ", firstitem)
+print("The second item you want to buy is: ", seconditem)
+print("The third item you want to buy is: ", thirditem)
